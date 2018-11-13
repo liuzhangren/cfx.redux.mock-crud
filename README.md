@@ -1,7 +1,7 @@
 # redux Reducer Mock 增删改查 coffee版本
 
 ## QuickStart
-### 克隆此项目之后
+### 克隆此项目之后 请进入test层级下测试
 ```bash
 $ yarn or npm install
 $ make docker
