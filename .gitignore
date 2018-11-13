@@ -1,0 +1,25 @@
+# OSX
+#
+.DS_Store
+
+# Android/IJ
+#
+.idea
+
+# node.js
+#
+node_modules/
+npm-debug.log*
+pnpm*.log
+
+dist
+.tmp
+tmp
+
+package-lock.json
+
+yarn.lock
+yarn*.log
+.lock
+
+.env
